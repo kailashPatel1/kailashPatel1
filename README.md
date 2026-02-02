@@ -67,12 +67,6 @@ I am also open to **Java and JavaScript-based development opportunities**, aimin
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Contributions](https://ghchart.rshah.org/kailashPatel1)
-
----
-
 ### 👀 Profile Views
 ![Visitors](https://komarev.com/ghpvc/?username=kailashPatel1&color=blue)
 
