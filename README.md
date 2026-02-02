@@ -69,8 +69,7 @@ I am also open to **Java and JavaScript-based development opportunities**, aimin
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailashPatel1&show_icons=true&theme=tokyonight)
-
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kailashPatel1&show_icons=true&theme=tokyonight" />
 ---
 
 ### 👀 Profile Views
