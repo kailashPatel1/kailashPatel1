@@ -62,13 +62,32 @@ I am also open to **Java and JavaScript-based development opportunities**, aimin
 ### 🚀 Projects
 - 🤖 **AI Buddy** – AI-based assistant  
 - 🧠 **Emotion Detector** – Deep Learning + Python  
-- 🏥 **Hospital Management System** – Java  
-- 🛒 **E-commerce Web Application** – Java, Sql, HTML, CSS, JavaScript  
+- 🏥 **Hospital Management System** – Java ,MySql 
+- 🛒 **E-commerce Web Application** – Java, Servlets, JSP, MySQL, HTML, CSS & JavaScript  
 
 ---
 
 ### 📊 GitHub Stats
-![Kailash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kailashPatel1&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/kailashPatel1">
+    <img src="https://github-readme-stats.vercel.app/api?username=kailashPatel1&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kailashPatel1?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailashPatel1&layout=compact&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kailashPatel1#contributions">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashPatel1&theme=tokyonight" />
+  </a>
+</p>
+
 
 ---
 
@@ -78,7 +97,11 @@ I am also open to **Java and JavaScript-based development opportunities**, aimin
 ---
 
 ### 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kailash%20Patel-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
+
 - 📧 Email: kailash102004@gmail.com  
-- 📍 Location: Noida, India  
+- 🔗 LinkedIn: www.linkedin.com/in/kailashpatel95 
+- 📍 Location: Noida, India
+
 
 ⚡ Fun fact: I enjoy turning ideas into working projects more than just learning theory 😄
