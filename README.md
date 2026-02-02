@@ -1,7 +1,6 @@
-**🐍 Python Developer | CSE (AI & ML) | AI & ML Enthusiast**
+**🐍 Python Developer | CSE (AI & ML) | AI Enthusiast**
 
 **👋 Hi, I'm Kailash Patel**
-
 
 ---
 
@@ -70,24 +69,7 @@ I am also open to **Java and JavaScript-based development opportunities**, aimin
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/kailashPatel1">
-    <img src="https://github-readme-stats.vercel.app/api?username=kailashPatel1&show_icons=true&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kailashPatel1?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailashPatel1&layout=compact&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kailashPatel1#contributions">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashPatel1&theme=tokyonight" />
-  </a>
-</p>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kailashPatel1&show_icons=true&theme=tokyonight)
 
 ---
 
