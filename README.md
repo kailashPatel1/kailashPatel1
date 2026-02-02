@@ -1,6 +1,7 @@
-🐍 Python Developer | CSE (AI & ML) | AI & ML Enthusiast  
+**🐍 Python Developer | CSE (AI & ML) | AI & ML Enthusiast**
 
-👋 Hi, I'm Kailash Patel  
+**👋 Hi, I'm Kailash Patel**
+
 
 ---
 
@@ -68,7 +69,6 @@ I am also open to **Java and JavaScript-based development opportunities**, aimin
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/kailashPatel1">
@@ -97,10 +97,10 @@ I am also open to **Java and JavaScript-based development opportunities**, aimin
 ---
 
 ### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kailash%20Patel-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kailash%20Patel-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailash95)
 
-- 📧 Email: kailash102004@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/kailashpatel95 
+- 📧 Email: [kailash102004@gmail.com](mailto:kailash102004@gmail.com)  
+- 🔗 LinkedIn: https://www.linkedin.com/in/kailash95  
 - 📍 Location: Noida, India
 
 
