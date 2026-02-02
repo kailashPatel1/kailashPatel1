@@ -1,16 +1,20 @@
-💡 Python Developer | CSE (AI & ML) | Ex Java Full Stack Intern @ HCL Technologies  
+🐍 Python Developer | CSE (AI & ML) | AI & ML Enthusiast  
 
 👋 Hi, I'm Kailash Patel  
 
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech – Computer Science & Engineering (AI & ML)
-- 🐍 Python Developer
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Skilled in Java, C, SQL, HTML & CSS
-- 🏢 Completed a 3-month Java Full Stack Internship at HCL Technologies
-- 🧠 Passionate about building practical, real-world projects
+- 🎓 Final Year B.Tech – Computer Science & Engineering (AI & ML)
+- 🐍 Python Developer (Project-Based)
+- 🤖 AI & Machine Learning Enthusiast
+- 💻 Skills: Python, Java, C, SQL, HTML, CSS, JavaScript
+
+---
+
+### 🎯 Career Objective
+I am a final year B.Tech student aspiring to work in **Python-centric roles**, with a strong interest in **Artificial Intelligence & Machine Learning**.  
+I am also open to **Java and JavaScript-based development opportunities**, aiming to contribute to real-world, technology-driven solutions through hands-on projects and continuous learning.
 
 ---
 
@@ -25,10 +29,12 @@
 #### 🌐 Web Technologies
 [![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Web-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### 🤖 AI & Tools
+#### 🤖 AI, Cloud & Tools
 [![AI](https://img.shields.io/badge/Artificial%20Intelligence-Learning-black?style=flat)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![ML](https://img.shields.io/badge/Machine%20Learning-Beginner-blue?style=flat)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 
@@ -40,12 +46,16 @@
 ---
 
 ### 🏢 Internship Experience
-**Java Full Stack Intern – HCL Technologies**  
-📅 Duration: 3 Months  
 
-- Developed and tested Java-based full stack modules  
-- Worked on frontend (HTML, CSS) and backend logic  
-- Followed industry-level coding standards and SDLC practices  
+**Java Full Stack Development Intern – HCL Technologies**  
+- Successfully completed a Java Full Stack Development internship  
+- Earned certification in Java Web Development with AI integration  
+- Developed dynamic web applications using Java, Servlets, JSP, MySQL, HTML, CSS & JavaScript  
+
+**AI Azure Virtual Intern – Microsoft | AICTE | Edunet Foundation**  
+📅 May 2025 – June 2025  
+- Completed a 4-week virtual internship on AI & Microsoft Azure Cloud  
+- Gained hands-on experience in AI concepts, Cloud Computing & Azure services  
 
 ---
 
@@ -53,7 +63,7 @@
 - 🤖 **AI Buddy** – AI-based assistant  
 - 🧠 **Emotion Detector** – Deep Learning + Python  
 - 🏥 **Hospital Management System** – Java  
-- 🛒 **E-commerce Web Application**
+- 🛒 **E-commerce Web Application** – Java, Sql, HTML, CSS, JavaScript  
 
 ---
 
@@ -71,5 +81,4 @@
 - 📧 Email: kailash102004@gmail.com  
 - 📍 Location: Noida, India  
 
-⚡ Fun fact: I enjoy building projects more than just learning theory 😄
-
+⚡ Fun fact: I enjoy turning ideas into working projects more than just learning theory 😄
