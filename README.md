@@ -5,10 +5,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final Year B.Tech – Computer Science & Engineering (AI & ML)
+- 🎓 B.Tech – Computer Science & Engineering (AI & ML)
 - 🐍 Python Developer (Project-Based)
 - 🤖 AI & Machine Learning Enthusiast
-- 💻 Skills: Python, Java, C, SQL, HTML, CSS, JavaScript
+- 💻 Skills: Python, Flask, Java, SQL, HTML, CSS, JavaScript
 
 ---
 
