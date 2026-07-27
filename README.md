@@ -60,6 +60,8 @@ I am also open to **Java and JavaScript-based development opportunities**, aimin
 ---
 
 ### 🚀 Projects
+- 🤖 **ShopVisionAI**  --Data Analytics and Ml 
+- 🤖 **SmartChatAI**   --AI and ML
 - 🤖 **AI Buddy** – AI-based assistant  
 - 🧠 **Emotion Detector** – Deep Learning + Python  
 - 🏥 **Hospital Management System** – Java ,MySql 
