@@ -8,7 +8,7 @@
 - 🎓 B.Tech – Computer Science & Engineering (AI & ML)
 - 🐍 Python Developer (Project-Based)
 - 🤖 AI & Machine Learning Enthusiast
-- 💻 Skills: Python, Flask, Java, SQL, HTML, CSS, JavaScript
+- 💻 Skills: Python, Flask, ML, Java, SQL, HTML, CSS, JavaScript
 
 ---
 
