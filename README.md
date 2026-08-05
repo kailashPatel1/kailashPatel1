@@ -13,8 +13,7 @@
 ---
 
 ### 🎯 Career Objective
-I am a final year B.Tech student aspiring to work in **Python-centric roles**, with a strong interest in **Artificial Intelligence & Machine Learning**.  
-I am also open to **Java and JavaScript-based development opportunities**, aiming to contribute to real-world, technology-driven solutions through hands-on projects and continuous learning.
+I am a B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning) graduate with a strong foundation in Python, SQL, Data Science, Data Analytics, and Machine Learning. I am passionate about analyzing data, building intelligent solutions, and extracting meaningful insights to solve real-world business problems. Through hands-on projects and practical experience, I have developed skills in data analysis, predictive modeling, and AI-driven applications. I am seeking an entry-level opportunity in Data Science, Data Analytics, or Machine Learning, where I can apply my technical expertise, continuously enhance my skills, and contribute to innovative, data-driven solutions.
 
 ---
 
