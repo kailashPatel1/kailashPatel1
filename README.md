@@ -23,26 +23,37 @@ I am a B.Tech Computer Science & Engineering (Artificial Intelligence & Machine 
 
 #### 👨‍💻 Programming Languages
 [![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![Java](https://img.shields.io/badge/Java-Skill-ED8B00?style=flat&logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![C](https://img.shields.io/badge/C-Programming-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
+
+#### 🤖 Generative AI & AI/ML
+[![LLM](https://img.shields.io/badge/LLM-Generative%20AI-black?style=flat)](https://en.wikipedia.org/wiki/Large_language_model)
+[![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
+[![AI Agents](https://img.shields.io/badge/AI%20Agents-Agentic%20AI-purple?style=flat)](https://en.wikipedia.org/wiki/Intelligent_agent)
+[![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat)](https://www.langchain.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Framework-orange?style=flat)](https://www.langchain.com/langgraph)
+[![LangSmith](https://img.shields.io/badge/LangSmith-LLM%20Observability-blue?style=flat)](https://www.langchain.com/langsmith)
+[![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=flat)](https://modelcontextprotocol.io)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
+
+#### 📊 Data Science & Backend
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Science-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-Data%20Science-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
+[![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 #### 🌐 Web Technologies
 [![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Web-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### 🤖 AI, Cloud & Tools
-[![AI](https://img.shields.io/badge/Artificial%20Intelligence-Learning-black?style=flat)](https://en.wikipedia.org/wiki/Artificial_intelligence)
-[![ML](https://img.shields.io/badge/Machine%20Learning-Beginner-blue?style=flat)](https://en.wikipedia.org/wiki/Machine_learning)
-[![Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com)
+#### 🧰 Tools & Development
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-
-#### 🧰 IDEs & Editors
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-000000?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Eclipse](https://img.shields.io/badge/Eclipse-IDE-2C2255?style=flat&logo=eclipse&logoColor=white)](https://www.eclipse.org)
+[![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
 [![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-000000?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 ---
 
