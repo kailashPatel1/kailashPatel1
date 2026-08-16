@@ -15,7 +15,7 @@
 ---
 
 ### 🎯 Career Objective
-I am a B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning) graduate with a strong foundation in Python, SQL, Data Science, Data Analytics, and Machine Learning. I am passionate about analyzing data, building intelligent solutions, and extracting meaningful insights to solve real-world business problems. Through hands-on projects and practical experience, I have developed skills in data analysis, predictive modeling, and AI-driven applications. I am seeking an entry-level opportunity in Data Science, Data Analytics, or Machine Learning, where I can apply my technical expertise, continuously enhance my skills, and contribute to innovative, data-driven solutions.
+I am a B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning) graduate with a strong foundation in Python, Machine Learning, Data Science, and Generative AI. I am passionate about building intelligent applications using LLMs, RAG, AI Agents, and modern AI frameworks. Through hands-on projects and practical experience, I have developed skills in developing AI-driven solutions, backend applications, and machine learning models. I am currently focused on Generative AI, Agentic AI, LangChain, LangGraph, MCP, and LLM-based application development, with the goal of building scalable and production-ready AI solutions.
 
 ---
 
