@@ -1,4 +1,4 @@
-**🐍 Python Developer | CSE (AI & ML) | AI Enthusiast**
+**🐍 Python Developer | 🤖 GenAI Engineer | CSE (AI & ML)**
 
 **👋 Hi, I'm Kailash Patel**
 
@@ -6,9 +6,11 @@
 
 ### 🚀 About Me
 - 🎓 B.Tech – Computer Science & Engineering (AI & ML)
-- 🐍 Python Developer (Project-Based)
-- 🤖 AI & Machine Learning Enthusiast
-- 💻 Skills: Python, Flask, ML, Java, SQL, HTML, CSS, JavaScript
+- 🐍 Python Developer
+- 🤖 Generative AI & Machine Learning
+- 🧠 LLMs, RAG & AI Agents
+- 🔗 LangChain, LangGraph, LangSmith & MCP
+- 💻 Skills: Python, SQL, Flask, FastAPI, PostgreSQL, Pandas, NumPy, Scikit-learn, Deep Learning, NLP, Computer Vision
 
 ---
 
