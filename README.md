@@ -49,12 +49,12 @@ I am a B.Tech Computer Science & Engineering (Artificial Intelligence & Machine 
 [![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### 🧰 Tools & Development
+#### 🧰 Tools & Development
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 [![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-000000?style=flat&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
-
 ---
 
 ### 🏢 Internship Experience
