@@ -8,8 +8,7 @@
 - 🎓 B.Tech – Computer Science & Engineering (AI & ML)
 - 🐍 Python Developer
 - 🤖 Generative AI & Machine Learning
-- 🧠 LLMs, RAG & AI Agents
-- 🔗 LangChain, LangGraph, LangSmith & MCP
+- 🧠 LLMs, RAG, AI Agents, LangChain, LangGraph, LangSmith & MCP (Currently Learning)
 - 💻 Skills: Python, SQL, Flask, FastAPI, PostgreSQL, Pandas, NumPy, Scikit-learn, Deep Learning, NLP, Computer Vision
 
 ---
