@@ -1,4 +1,4 @@
-**🐍 Python Developer | 🤖 GenAI Engineer | CSE (AI & ML)**
+**🐍 Python Developer | 🤖 GenAI Engineer**
 
 **👋 Hi, I'm Kailash Patel**
 
