@@ -45,9 +45,7 @@ I am a B.Tech Computer Science & Engineering (Artificial Intelligence & Machine 
 #### 🌐 Web Technologies
 [![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Web-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Web-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-#### 🧰 Tools & Development
 #### 🧰 Tools & Development
 [![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github&logoColor=white)](https://github.com)
