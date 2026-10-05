@@ -1,11 +1,11 @@
 **Python Developer | 🤖 GenAI Engineer**
 
-**👋Hii, I'm Kailash Patel**
+**👋Hi, I'm Kailash Patel**
 
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech – Computer Science & Engineering (AI & ML)
+- 🎓 B.Tech Computer Science & Engineering (AI & ML)
 - 🐍 Python Developer
 - 🤖 Generative AI & Machine Learning
 - 🧠 LLMs, RAG, AI Agents, LangChain, LangGraph, LangSmith & MCP (Currently Learning)
