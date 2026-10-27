@@ -87,4 +87,4 @@ I am a B.Tech Computer Science & Engineering (Artificial Intelligence & Machine 
 - 🔗 LinkedIn: https://www.linkedin.com/in/kailash95  
 - 📍 Location: Noida, India
 
-Fun fact: I enjoy turning ideas into working projects more than just learning theory
+Fun fact:I enjoy turning ideas into working projects more than just learning theory and readings
