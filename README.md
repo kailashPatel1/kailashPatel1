@@ -1,6 +1,6 @@
 **Python Developer | 🤖 GenAI Engineer**
 
-**👋Hii, I'm Kailash Patel**
+**👋Hi, I'm Kailash Patel**
 
 ---
 ### 🚀 About Me
