@@ -1,90 +1,192 @@
-**Python Developer | 🤖 GenAI Engineer**
+# 👋 Hi, I'm Kailash Patel
 
-**👋Hi, I'm Kailash Patel**
+### 🐍 Python Developer | 🤖 Generative AI Engineer | AI/ML Engineer
 
----
-### 🚀 About Me
-- 🎓 B.Tech Computer Science & Engineering (AI & ML)
-- 🐍 Python Developer
-- 🤖 Generative AI & Machine Learning
-- 🧠 LLMs, RAG, AI Agents, LangChain, LangGraph, LangSmith & MCP (Currently Learning)
-- 💻 Skills: Python, SQL, Flask, FastAPI, PostgreSQL, Pandas, NumPy, Scikit-learn, Deep Learning, NLP, Computer Vision
-
----
-### 🎯 Career Objective
-I am a B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning) graduate with a strong foundation in Python, Machine Learning, Data Science, and Generative AI. I am passionate about building intelligent applications using LLMs, RAG, AI Agents, and modern AI frameworks. Through hands-on projects and practical experience, I have developed skills in developing AI-driven solutions, backend applications, and machine learning models. I am currently focused on Generative AI, Agentic AI, LangChain, LangGraph, MCP, and LLM-based application development, with the goal of building scalable and production-ready AI solutions.
----
-
-### 🛠️ Skills & Technologies
-
-#### 👨‍💻 Programming Languages
-[![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org)
-[![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com)
-
-#### 🤖 Generative AI & AI/ML
-[![LLM](https://img.shields.io/badge/LLM-Generative%20AI-black?style=flat)](https://en.wikipedia.org/wiki/Large_language_model)
-[![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-[![AI Agents](https://img.shields.io/badge/AI%20Agents-Agentic%20AI-purple?style=flat)](https://en.wikipedia.org/wiki/Intelligent_agent)
-[![LangChain](https://img.shields.io/badge/LangChain-Framework-1C3C3C?style=flat)](https://www.langchain.com)
-[![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Framework-orange?style=flat)](https://www.langchain.com/langgraph)
-[![LangSmith](https://img.shields.io/badge/LangSmith-LLM%20Observability-blue?style=flat)](https://www.langchain.com/langsmith)
-[![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=flat)](https://modelcontextprotocol.io)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
-
-#### 📊 Data Science & Backend
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Science-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-Data%20Science-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org)
-[![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-
-#### 🌐 Web Technologies
-[![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-Web-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-#### 🧰 Tools & Development
-[![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-[![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
----
-
-### 🏢 Internship Experience
-
-**Java Full Stack Development Intern – HCL Technologies**  
-- Successfully completed a Java Full Stack Development internship  
-- Earned certification in Java Web Development with AI integration  
-- Developed dynamic web applications using Java, Servlets, JSP, MySQL, HTML, CSS & JavaScript  
-
-**AI Azure Virtual Intern – Microsoft | AICTE | Edunet Foundation**  
-📅 May 2025 – June 2025  
-- Completed a 4-week virtual internship on AI & Microsoft Azure Cloud  
-- Gained hands-on experience in AI concepts, Cloud Computing & Azure services  
+**Building Intelligent Applications with Python, AI & Generative AI.**
 
 ---
 
-### 🚀 Projects
-- 🤖 **ShopVisionAI**  --Data Analytics and Ml 
-- 🤖 **SmartChatAI**   --AI and ML
-- 🤖 **AI Buddy** – AI-based assistant  
-- 🧠 **Emotion Detector** – Deep Learning + Python  
-- 🏥 **Hospital Management System** – Java ,MySql 
-- 🛒 **E-commerce Web Application** – Java, Servlets, JSP, MySQL, HTML, CSS & JavaScript  
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML).
+- 💼 1 Year of Professional Experience in AI/ML Engineering.
+- 🤖 Currently working as a Generative AI Engineer.
+- 🐍 Experienced in Python Development, Machine Learning & Backend Development.
+- 🧠 Interested in LLMs, RAG and AI-powered applications.
+- 📚 Currently learning LangChain, LangGraph, LangSmith and MCP.
+- 🎯 Focused on building practical AI solutions and scalable applications.
 
 ---
 
-### 👀 Profile Views
-![Visitors](https://komarev.com/ghpvc/?username=kailashPatel1&color=blue)
+## 💼 Professional Experience
+
+### 🤖 Generative AI Engineer | Currently Working
+
+- Developing AI-powered applications using Python and Generative AI technologies.
+- Working on LLM-based applications and AI solutions.
+- Exploring modern AI technologies and their real-world applications.
+- Integrating AI capabilities with backend applications.
+
+### 🧠 AI/ML Engineer | 1 Year Experience
+
+- Worked on Python-based AI/ML application development.
+- Developed and integrated machine learning models.
+- Worked with data processing and analysis.
+- Built practical applications using Python and related technologies.
 
 ---
 
-### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kailash%20Patel-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailash95)
+## 🛠️ Skills & Technologies
 
-- 📧 Email: [kailash102004@gmail.com](mailto:kailash102004@gmail.com)  
-- 🔗 LinkedIn: https://www.linkedin.com/in/kailash95  
-- 📍 Location: Noida, India
+### 👨‍💻 Programming Languages
 
-Fun fact:I enjoy turning ideas into working projects more than just learning theory and readings
+<p align="left">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>
+</p>
+
+### 🤖 AI / ML
+
+<p align="left">
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow"/></a>
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Scikit-learn"/></a>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="45" height="45" alt="OpenCV"/></a>
+</p>
+
+Machine Learning • Deep Learning • NLP • Computer Vision
+
+### ⚙️ Backend & Database
+
+<p align="left">
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"/></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/></a>
+</p>
+
+### 📊 Data Science
+
+<p align="left">
+<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" width="45" height="45" alt="Pandas"/></a>
+<a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" width="45" height="45" alt="NumPy"/></a>
+</p>
+
+### 🌐 Web Technologies
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/></a>
+</p>
+
+### 🧰 Tools & Development
+
+<p align="left">
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/></a>
+<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="45" height="45" alt="Jupyter"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/></a>
+</p>
+
+### 📚 Currently Learning
+
+- LangChain
+- LangGraph
+- LangSmith
+- Model Context Protocol (MCP)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 ShopVision AI
+Retail Analytics & Machine Learning Dashboard.
+
+**Tech Stack:** Python, Flask, PostgreSQL, Pandas, Scikit-learn, Matplotlib.
+
+### 💬 SmartChat AI
+AI-powered conversational chatbot.
+
+**Tech Stack:** Python, Flask, LLM APIs, SQLite.
+
+### 🧠 Multi-Document RAG AI Agent
+Document-based question-answering system using Retrieval-Augmented Generation.
+
+**Tech Stack:** Python, RAG, LLMs.
+
+🔗 [View Project](https://github.com/kailashPatel1/Multi-Document-Rag-Ai-Agent)
+
+### 🤖 AI Buddy
+AI-based intelligent assistant.
+
+### 😊 Emotion Detector
+Real-time facial emotion detection using computer vision and deep learning.
+
+**Tech Stack:** Python, OpenCV, Deep Learning.
+
+### 🏥 Hospital Management System
+Hospital management application.
+
+**Tech Stack:** Java, MySQL.
+
+### 🛒 E-commerce Web Application
+Dynamic e-commerce web application.
+
+**Tech Stack:** Java, Servlets, JSP, MySQL, HTML, CSS, JavaScript.
+
+---
+
+## 📜 Certifications
+
+- 🏆 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional.
+- ☁️ Microsoft AI Azure Virtual Internship – AICTE & Edunet Foundation.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kailashPatel1&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailashPatel1&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kailashPatel1&theme=tokyonight&hide_border=true" width="65%"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kailashPatel1&theme=tokyonight&no-frame=true&row=1"/>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kailashPatel1&label=Profile%20Views&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/kailash95"><img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/></a>
+<a href="https://github.com/kailashPatel1"><img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/></a>
+<a href="mailto:kailash102004@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/></a>
+</p>
+
+📧 **Email:** kailash102004@gmail.com
+
+📍 **Location:** Noida, India
+
+---
+
+### 💡 Fun Fact
+
+I enjoy turning ideas into working projects more than just learning theory.
+
+<h3 align="center">🚀 Building the Future with Python & Generative AI.</h3>
