@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=180&section=header&text=Kailash%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=170&section=header&text=Kailash%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=60&descSize=17" width="100%"/>
 
 <img src="assets/robot-welcome.png" width="100%" alt="Hi! You're Welcome to My Profile"/>
 
@@ -15,8 +15,8 @@
 | | |
 |---|---|
 | 🎓 | B.Tech Graduate in Computer Science & Engineering (AI & ML). |
-| 💼 | **1 Year of Professional AI/ML Experience.** |
-| 🤖 | Currently working as a **Generative AI Engineer**. |
+| 💼 | 1 Year of Professional AI/ML Experience. |
+| 🤖 | Currently working as a Generative AI Engineer. |
 | 🐍 | Focused on Python Development and Backend Engineering. |
 | 🧠 | Interested in Machine Learning, Deep Learning and Generative AI. |
 | 📚 | Currently learning LangChain, LangGraph, LangSmith and MCP. |
@@ -28,7 +28,7 @@
 
 ### 🤖 Generative AI Engineer
 
-<img src="https://img.shields.io/badge-Currently-Working-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/●%20Currently%20Working-00C853?style=for-the-badge&logoColor=white"/>
 
 - Developing AI-powered applications using Python and Generative AI technologies.
 - Working on LLM-based applications and AI solutions.
@@ -37,7 +37,7 @@
 
 ### 🧠 AI/ML Engineer
 
-<img src="https://img.shields.io/badge-Experience-1%20Year-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/1%20Year%20Experience-0078D4?style=for-the-badge"/>
 
 - Worked on Python-based AI/ML application development.
 - Developed and integrated machine learning models.
@@ -50,47 +50,61 @@
 
 ### 👨‍💻 Programming Languages
 
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="25"/> Python</a> &nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="25"/> MySQL</a>
+<p>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+</p>
 
 ### 🤖 AI / Machine Learning
 
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="25"/> TensorFlow</a> &nbsp;&nbsp;
-<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="25"/> Scikit-learn</a> &nbsp;&nbsp;
-<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="25"/> OpenCV</a>
+<p>
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+</p>
 
 **Concepts:** Machine Learning • Deep Learning • NLP • Computer Vision
 
 ### ⚙️ Backend & Database
 
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="25"/> Flask</a> &nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="25"/> FastAPI</a> &nbsp;&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="25"/> PostgreSQL</a>
+<p>
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+</p>
 
 ### 📊 Data Science
 
-<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" width="25"/> Pandas</a> &nbsp;&nbsp;
-<a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" width="25"/> NumPy</a>
+<p>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+</p>
 
 ### 🌐 Web Technologies
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="25"/> HTML5</a> &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="25"/> CSS3</a>
+<p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+</p>
 
 ### 🧰 Tools & Development
 
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="25"/> Git</a> &nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub</a> &nbsp;&nbsp;
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="25"/> Docker</a> &nbsp;&nbsp;
-<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="25"/> Jupyter</a> &nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="25"/> VS Code</a>
+<p>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+</p>
 
 ### 📚 Currently Learning
 
-<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="25"/> LangChain</a> &nbsp;&nbsp;
-<a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="25"/> LangGraph</a> &nbsp;&nbsp;
-<a href="https://www.langchain.com/langsmith"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="25"/> LangSmith</a> &nbsp;&nbsp;
-<a href="https://modelcontextprotocol.io/"><img src="https://cdn.simpleicons.org/modelcontextprotocol/555555" width="25"/> MCP</a>
+<p>
+<a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/></a>
+<a href="https://www.langchain.com/langgraph"><img src="https://img.shields.io/badge/LangGraph-2B6CB0?style=for-the-badge"/></a>
+<a href="https://www.langchain.com/langsmith"><img src="https://img.shields.io/badge/LangSmith-6C5CE7?style=for-the-badge"/></a>
+<a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-555555?style=for-the-badge"/></a>
+</p>
 
 ---
 
