@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=170&section=header&text=Kailash%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=60&descSize=17" width="100%"/>
 
-<img src="assets/robot-welcome.png" width="100%" alt="Hi! You're Welcome to My Profile"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+Generative+AI;Turning+Ideas+Into+Real+World+Projects"/>
 
 </div>
@@ -209,16 +207,6 @@ AICTE & Edunet Foundation.
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kailashPatel1&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1"/>
-
-</div>
 
 ---
 
