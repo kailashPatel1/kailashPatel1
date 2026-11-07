@@ -1,31 +1,34 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=220&section=header&text=Kailash%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Generative%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:4B0082,100:00D4FF&height=180&section=header&text=Kailash%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Generative%20AI%20Engineer%20%7C%20AI%2FML%20Engineer&descAlignY=60&descSize=16" width="100%"/>
 
-# 👋 Hi, I'm Kailash Patel
+<img src="assets/robot-welcome.png" width="100%" alt="Hi! You're Welcome to My Profile"/>
 
-### 🐍 Python Developer | 🤖 Generative AI Engineer | AI/ML Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Python+%7C+Machine+Learning+%7C+Generative+AI;Turning+Ideas+Into+Real+World+Projects"/>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+| | |
+|---|---|
+| 🎓 | B.Tech Graduate in Computer Science & Engineering (AI & ML). |
+| 💼 | **1 Year of Professional AI/ML Experience.** |
+| 🤖 | Currently working as a **Generative AI Engineer**. |
+| 🐍 | Focused on Python Development and Backend Engineering. |
+| 🧠 | Interested in Machine Learning, Deep Learning and Generative AI. |
+| 📚 | Currently learning LangChain, LangGraph, LangSmith and MCP. |
+| 🎯 | Passionate about building practical AI-powered applications. |
 
-- 🎓 B.Tech Graduate in Computer Science & Engineering (AI & ML).
-- 💼 **1 Year of Professional AI/ML Experience.**
-- 🤖 Currently working as a **Generative AI Engineer**.
-- 🐍 Focused on Python Development and Backend Engineering.
-- 🧠 Interested in Machine Learning, Deep Learning and Generative AI.
-- 📚 Currently learning LangChain, LangGraph, LangSmith and MCP.
-- 🎯 Passionate about building practical AI-powered applications.
-
-<br clear="right"/>
+---
 
 ## 💼 Professional Experience
 
 ### 🤖 Generative AI Engineer
-<badge>Currently Working</badge>
+
+<img src="https://img.shields.io/badge-Currently-Working-8A2BE2?style=for-the-badge"/>
 
 - Developing AI-powered applications using Python and Generative AI technologies.
 - Working on LLM-based applications and AI solutions.
@@ -33,7 +36,8 @@
 - Integrating AI capabilities with backend applications.
 
 ### 🧠 AI/ML Engineer
-<badge>1 Year Experience</badge>
+
+<img src="https://img.shields.io/badge-Experience-1%20Year-0078D4?style=for-the-badge"/>
 
 - Worked on Python-based AI/ML application development.
 - Developed and integrated machine learning models.
@@ -42,65 +46,51 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="42"/> Python</a> &nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="42"/> MySQL</a>
-</p>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="25"/> Python</a> &nbsp;&nbsp;
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="25"/> MySQL</a>
 
 ### 🤖 AI / Machine Learning
 
-<p align="left">
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="42"/> TensorFlow</a> &nbsp;&nbsp;
-<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="42"/> Scikit-learn</a> &nbsp;&nbsp;
-<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="42"/> OpenCV</a>
-</p>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="25"/> TensorFlow</a> &nbsp;&nbsp;
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="25"/> Scikit-learn</a> &nbsp;&nbsp;
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="25"/> OpenCV</a>
 
 **Concepts:** Machine Learning • Deep Learning • NLP • Computer Vision
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="42"/> Flask</a> &nbsp;&nbsp;
-<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="42"/> FastAPI</a> &nbsp;&nbsp;
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="42"/> PostgreSQL</a>
-</p>
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="25"/> Flask</a> &nbsp;&nbsp;
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" width="25"/> FastAPI</a> &nbsp;&nbsp;
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="25"/> PostgreSQL</a>
 
 ### 📊 Data Science
 
-<p align="left">
-<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" width="42"/> Pandas</a> &nbsp;&nbsp;
-<a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" width="42"/> NumPy</a>
-</p>
+<a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" width="25"/> Pandas</a> &nbsp;&nbsp;
+<a href="https://numpy.org/"><img src="https://cdn.simpleicons.org/numpy/013243" width="25"/> NumPy</a>
 
 ### 🌐 Web Technologies
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="42"/> HTML5</a> &nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="42"/> CSS3</a>
-</p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="25"/> HTML5</a> &nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="25"/> CSS3</a>
 
 ### 🧰 Tools & Development
 
-<p align="left">
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="42"/> Git</a> &nbsp;&nbsp;
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="42"/> GitHub</a> &nbsp;&nbsp;
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="42"/> Docker</a> &nbsp;&nbsp;
-<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="42"/> Jupyter</a> &nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="42"/> VS Code</a>
-</p>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="25"/> Git</a> &nbsp;&nbsp;
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub</a> &nbsp;&nbsp;
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="25"/> Docker</a> &nbsp;&nbsp;
+<a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="25"/> Jupyter</a> &nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="25"/> VS Code</a>
 
 ### 📚 Currently Learning
 
-<p align="left">
-<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="35"/> LangChain</a> &nbsp;
-<a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="35"/> LangGraph</a> &nbsp;
-<a href="https://www.langchain.com/langsmith"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="35"/> LangSmith</a> &nbsp;
-<a href="https://modelcontextprotocol.io/"><img src="https://cdn.simpleicons.org/modelcontextprotocol/555555" width="35"/> MCP</a>
-</p>
+<a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="25"/> LangChain</a> &nbsp;&nbsp;
+<a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="25"/> LangGraph</a> &nbsp;&nbsp;
+<a href="https://www.langchain.com/langsmith"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="25"/> LangSmith</a> &nbsp;&nbsp;
+<a href="https://modelcontextprotocol.io/"><img src="https://cdn.simpleicons.org/modelcontextprotocol/555555" width="25"/> MCP</a>
 
 ---
 
@@ -108,40 +98,77 @@
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">🤖 ShopVision AI</h3>
-<p align="center">Retail Analytics & Machine Learning Dashboard</p>
-<p align="center"><strong>Python • Flask • PostgreSQL • Pandas • Scikit-learn</strong></p>
+<td width="50%" valign="top">
+
+### 🛒 ShopVision AI
+
+Retail Analytics & Machine Learning Dashboard.
+
+**Technologies:**
+
+Python • Flask • PostgreSQL • Pandas • Scikit-learn • Matplotlib
+
 </td>
-<td width="50%">
-<h3 align="center">💬 SmartChat AI</h3>
-<p align="center">AI-Powered Conversational Chatbot</p>
-<p align="center"><strong>Python • Flask • LLM APIs • SQLite</strong></p>
+<td width="50%" valign="top">
+
+### 💬 SmartChat AI
+
+AI-Powered Conversational Chatbot.
+
+**Technologies:**
+
+Python • Flask • LLM APIs • SQLite
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3 align="center">🧠 Multi-Document RAG AI Agent</h3>
-<p align="center">Document-Based Intelligent Question Answering</p>
-<p align="center"><strong>Python • RAG • LLMs</strong></p>
-<p align="center"><a href="https://github.com/kailashPatel1/Multi-Document-Rag-Ai-Agent">View Project ↗</a></p>
+<td width="50%" valign="top">
+
+### 🧠 Multi-Document RAG AI Agent
+
+Document-Based Intelligent Question Answering System.
+
+**Technologies:**
+
+Python • RAG • LLMs
+
+🔗 [View Project](https://github.com/kailashPatel1/Multi-Document-Rag-Ai-Agent)
+
 </td>
-<td width="50%">
-<h3 align="center">🤖 AI Buddy</h3>
-<p align="center">AI-Based Intelligent Assistant</p>
-<p align="center"><strong>Python • AI</strong></p>
+<td width="50%" valign="top">
+
+### 🤖 AI Buddy
+
+AI-Based Intelligent Assistant.
+
+**Technologies:**
+
+Python • AI
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<h3 align="center">😊 Emotion Detector</h3>
-<p align="center">Real-Time Facial Emotion Detection</p>
-<p align="center"><strong>Python • OpenCV • Deep Learning</strong></p>
+<td width="50%" valign="top">
+
+### 😊 Emotion Detector
+
+Real-Time Facial Emotion Detection.
+
+**Technologies:**
+
+Python • OpenCV • Deep Learning
+
 </td>
-<td width="50%">
-<h3 align="center">🏥 Hospital Management System</h3>
-<p align="center">Hospital Management Application</p>
-<p align="center"><strong>Java • MySQL</strong></p>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Management System
+
+Hospital Management Application.
+
+**Technologies:**
+
+Java • MySQL
+
 </td>
 </tr>
 </table>
@@ -150,22 +177,24 @@
 
 ## 🏆 Certifications
 
-- 🏅 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional.
-- ☁️ Microsoft AI Azure Virtual Internship – AICTE & Edunet Foundation.
+<table>
+<tr>
+<td width="50%">
 
----
+🏅 **Oracle Cloud Infrastructure 2025**
 
-## 📊 GitHub Analytics
+Certified Generative AI Professional.
 
-<div align="center">
+</td>
+<td width="50%">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kailashPatel1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+☁️ **Microsoft AI Azure Virtual Internship**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailashPatel1&layout=compact&theme=tokyonight&hide_border=true"/>
+AICTE & Edunet Foundation.
 
-<img width="70%" src="https://streak-stats.demolab.com?user=kailashPatel1&theme=tokyonight&hide_border=true"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -179,25 +208,35 @@
 
 ---
 
+## 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kailashPatel1&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kailash95">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
 <a href="https://github.com/kailashPatel1">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
+<a href="https://www.linkedin.com/in/kailash95">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 <a href="mailto:kailash102004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<br/><br/>
+📍 **Noida, India**
 
-📍 Noida, India
+📧 **kailash102004@gmail.com**
 
-📧 kailash102004@gmail.com
+---
 
 ### 💡 Fun Fact
 
