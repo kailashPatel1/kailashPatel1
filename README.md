@@ -8,7 +8,6 @@
 
 ---
 ## 🚀 About Me
-
 | | |
 |---|---|
 | 🎓 | B.Tech Graduate in Computer Science & Engineering (AI & ML). |
