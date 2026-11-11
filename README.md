@@ -138,8 +138,6 @@ Document-Based Intelligent Question Answering System.
 
 Python • RAG • LLMs
 
-🔗 [View Project](https://github.com/kailashPatel1/Multi-Document-Rag-Ai-Agent)
-
 </td>
 <td width="50%" valign="top">
 
