@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | 🎓 | B.Tech Graduate in Computer Science & Engineering (AI & ML). |
-| 💼 | 1 Year of Professional AI/ML Experience. |
+| 💼 | 0.9 Year of Professional AI/ML Experience. |
 | 🤖 | Currently working as a Generative AI Engineer. |
 | 🐍 | Focused on Python Development and Backend Engineering. |
 | 🧠 | Interested in Machine Learning, Deep Learning and Generative AI. |
