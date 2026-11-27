@@ -178,7 +178,6 @@ Java • MySQL
 </table>
 
 ---
-
 ## 🏆 Certifications
 
 <table>
@@ -211,7 +210,6 @@ AICTE & Edunet Foundation.
 </div>
 
 ---
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -231,9 +229,7 @@ AICTE & Edunet Foundation.
 📧 **kailash102004@gmail.com**
 
 ---
-
 ### 💡 Fun Fact
-
 I enjoy turning ideas into working projects more than just learning theory.
 
 <h3>⚡ Code. Learn. Build. Repeat.</h3>
